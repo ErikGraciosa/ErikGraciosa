@@ -1,7 +1,9 @@
 ### Hi there 👋
 <p align="center">
 Welcome to my github repo, I'm actively seeking Full Stack Engineer roles within the React/Express/Node/PostgreSQL stack.
+<p align="center">
 I'm excited to work on projects involving maps, data aggregations, and elegent displays of information.
+<p align="center">
 Please checkout my pinned repo's for personal projects and my Linked In profile for professional experience.
 
 
