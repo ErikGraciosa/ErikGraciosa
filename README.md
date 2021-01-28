@@ -2,11 +2,12 @@
 <h3><p align="center">
 Welcome to my github repo, I'm actively seeking Full Stack Engineer roles within the React/Express/Node/PostgreSQL stack.
 </p></h3>
-<p align="center">
+<h3><p align="center">
 I'm excited to work on projects involving maps, data aggregations, and elegent displays of information.
-<p align="center">
+</p><h3>
+<h3><p align="center">
 Please checkout my pinned repo's for personal projects and my Linked In profile for professional experience.
-
+</p><h3>
 
 
 [![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikgraciosa)](https://github.com/anuraghazra/github-readme-stats)
