@@ -9,7 +9,7 @@ Please checkout my pinned repo's for personal projects and my Linked In profile 
 <center>
 [![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikgraciosa)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikgraciosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+
 <!--
 **ErikGraciosa/ErikGraciosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
