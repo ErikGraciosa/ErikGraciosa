@@ -1,16 +1,16 @@
 ### Hi there 👋
-
+<p align="center">
 Welcome to my github repo, I'm actively seeking Full Stack Engineer roles within the React/Express/Node/PostgreSQL stack.
 
 I'm excited to work on projects involving maps, data aggregations, and elegent displays of information.
 
 Please checkout my pinned repo's for personal projects and my Linked In profile for professional experience.
-
-
-<p align="center">
-  [![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikgraciosa)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikgraciosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+
+
+[![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikgraciosa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikgraciosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
