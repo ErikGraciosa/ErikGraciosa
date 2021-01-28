@@ -1,6 +1,7 @@
 ### Hi there 👋
 <p align="center">
-<h3>Welcome to my github repo, I'm actively seeking Full Stack Engineer roles within the React/Express/Node/PostgreSQL stack.<h3>
+<h3>Welcome to my github repo, I'm actively seeking Full Stack Engineer roles within the React/Express/Node/PostgreSQL stack.</h3>
+</p>
 <p align="center">
 I'm excited to work on projects involving maps, data aggregations, and elegent displays of information.
 <p align="center">
