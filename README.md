@@ -6,14 +6,14 @@ Welcome to my github repo, I'm actively seeking Full Stack Engineer roles, my st
 I'm excited to work on projects involving maps, data aggregations, and elegent displays of information.
 </p><h3>
 <h3><p align="center">
-Please checkout my pinned repo's for personal projects and my Linked In profile for professional experience.
+Please checkout my pinned repo's for personal projects and my [LinkedIn](https://www.linkedin.com/in/erikgraciosa/) profile for professional experience.
 </p><h3>
 
 
 [![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikgraciosa)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikgraciosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[LinkedIn](https://www.linkedin.com/in/erikgraciosa/)
+
 
 <!--
 **ErikGraciosa/ErikGraciosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
