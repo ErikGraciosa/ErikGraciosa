@@ -1,9 +1,9 @@
 ### Hi there 👋
 <h3><p align="center">
-Please checkout my pinned repositories for personal projects and my LinkedIn profile for professional experience.
+Please checkout my pinned repositories for personal projects.
+
+My current stack is React, Typescript, C# .NET, postgreSQL but also dabble in Azure serverless products and non relational databases. Other front end tech experience in Angular and .NET razor pages.
 </p><h3>
-  
-[LinkedIn](https://www.linkedin.com/in/erikgraciosa/)
 
 <!--
 **ErikGraciosa/ErikGraciosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
