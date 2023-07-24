@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h3><p align="center">
-Please checkout my pinned repo's for personal projects and my LinkedIn profile for professional experience.
+Please checkout my pinned repositories for personal projects and my LinkedIn profile for professional experience.
 </p><h3>
   
 [LinkedIn](https://www.linkedin.com/in/erikgraciosa/)
