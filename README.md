@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Erik 👋
 <h3><p align="center">
 Please checkout my pinned repositories for personal projects.
 
