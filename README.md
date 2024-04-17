@@ -1,4 +1,5 @@
 # Hi there I'm Erik 👋
+[Linked In](https://www.linkedin.com/in/erikgraciosa/)
 <br/>
 <p align="left">
 <h3>I'm a software developer, a consultant, and a pinball map contributor.</h3>
@@ -13,7 +14,7 @@
 <h3><p align="left">
 Connect with me on linked in.
 </p></h3>
-[Linked In](https://www.linkedin.com/in/erikgraciosa/)
+
 
 <!--
 **ErikGraciosa/ErikGraciosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
