@@ -9,7 +9,7 @@
 - ⚙️ I have an education in Mechanical Engineering
 - ♻️ I once recycled 5 miles of paper in a day
 
-## Connect with me on linked in.
+## Connect with me on Linked In.
 [Linked In](https://www.linkedin.com/in/erikgraciosa/)
 
 <!--
