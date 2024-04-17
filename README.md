@@ -1,5 +1,7 @@
-### Hi there I'm Erik 👋
-<h3><p align="center">
+## Hi there I'm Erik 👋
+<br>
+
+<h3><p align="left">
 Please checkout my pinned repositories for personal projects.
 
 My current stack is React, Typescript, C# .NET, postgreSQL but also dabble in Azure serverless products and non relational databases. Other front end tech experience in Angular and .NET razor pages.
