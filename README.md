@@ -8,7 +8,7 @@
 - ☁️ I'm a cloud certified developer for AWS and Azure
 - ⚙️ I have an education in Mechanical Engineering
 - ♻️ I once recycled 5 miles of paper in a day
-- 
+
 ## Connect with me on linked in.
 [Linked In](https://www.linkedin.com/in/erikgraciosa/)
 
