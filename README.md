@@ -1,10 +1,10 @@
-## Hi there I'm Erik 👋
-<br>
-<h3><p align="left">
-I'm a software developer, a consultant, and a pinball map contributor.
-</p></h3>
-  
-<br>
+# Hi there I'm Erik 👋
+<br/>
+<p align="left">
+<h3>I'm a software developer, a consultant, and a pinball map contributor.</h3>
+</p>
+<br/>
+
 - ⛷🏾 I'm currently working for Slalom Consulting
 - ☁️ I'm a cloud certified developer for AWS and Azure
 - ⚙️ I have an education in Mechanical Engineering
