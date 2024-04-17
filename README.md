@@ -1,12 +1,19 @@
 ## Hi there I'm Erik 👋
 <br>
+<h3><p align="left">
+I'm a software developer, a consultant, and a pinball map contributor.
+</p></h3>
+  
+<br>
+- ⛷🏾 I'm currently working for Slalom Consulting
+- ☁️ I'm a cloud certified developer for AWS and Azure
+- ⚙️ I have an education in Mechanical Engineering
+- ♻️ I once recycled 5 miles of paper in a day
 
 <h3><p align="left">
-Please checkout my pinned repositories for personal projects.
-
-My current stack is React, Typescript, C# .NET, postgreSQL but also dabble in Azure serverless products and non relational databases. Other front end tech experience in Angular and .NET razor pages.
-</p><h3>
-
+Connect with me on linked in.
+</p></h3>
+[Linked In](https://www.linkedin.com/in/erikgraciosa/)
 <!--
 **ErikGraciosa/ErikGraciosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
