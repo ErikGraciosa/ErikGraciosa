@@ -1,9 +1,7 @@
 # Hi there I'm Erik 👋
-[Linked In](https://www.linkedin.com/in/erikgraciosa/)
 <br/>
-<p align="left">
-<h3>I'm a software developer, a consultant, and a pinball map contributor.</h3>
-</p>
+
+## I'm a software developer, a consultant, and a pinball map contributor.
 <br/>
 
 - ⛷ I'm currently working for Slalom Consulting
@@ -11,9 +9,8 @@
 - ⚙️ I have an education in Mechanical Engineering
 - ♻️ I once recycled 5 miles of paper in a day
 
-<h3><p align="left">
-Connect with me on linked in.
-</p></h3>
+## Connect with me on linked in.
+[Linked In](https://www.linkedin.com/in/erikgraciosa/)
 
 
 <!--
