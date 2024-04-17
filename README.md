@@ -5,7 +5,7 @@
 </p>
 <br/>
 
-- ⛷🏾 I'm currently working for Slalom Consulting
+- ⛷ I'm currently working for Slalom Consulting
 - ☁️ I'm a cloud certified developer for AWS and Azure
 - ⚙️ I have an education in Mechanical Engineering
 - ♻️ I once recycled 5 miles of paper in a day
@@ -14,6 +14,7 @@
 Connect with me on linked in.
 </p></h3>
 [Linked In](https://www.linkedin.com/in/erikgraciosa/)
+
 <!--
 **ErikGraciosa/ErikGraciosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
