@@ -1,9 +1,8 @@
 # Hi there I'm Erik 👋
-<br/>
+---
 ## Checkout my website www.erikgraciosa.com
 ## I'm a software developer, a consultant, and a pinball map contributor.
-<br/>
-
+---
 - ⛷ I'm currently working for Slalom Consulting
 - ☁️ I'm a cloud certified developer for AWS and Azure
 - ⚙️ I have an education in Mechanical Engineering
