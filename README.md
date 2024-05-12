@@ -10,8 +10,7 @@
 - ♻️ I once recycled 5 miles of paper in a day
 
 ## My certifications
-[![HashiCorp Certified: Terraform Associate](https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png)](https://www.credly.com/badges/6004d179-89d7-4426-907d-f7d017b9c8ae/public_url)
-
+<a> href="https://www.credly.com/badges/6004d179-89d7-4426-907d-f7d017b9c8ae/public_url"><img src="(https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png)" width="250" height="250" alt="Your Image Description"><a/>
 
 ## Connect with me on [Linked In](https://www.linkedin.com/in/erikgraciosa/)
 
