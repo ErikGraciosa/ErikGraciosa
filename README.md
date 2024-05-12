@@ -5,7 +5,7 @@
 
 - ⛷ I'm currently working for Slalom Consulting
 - ⚕️I have deployed code to health care companies and government agencies
-- ☁️ I'm a cloud certified developer for AWS and Azure
+- ☁️ I'm a cloud certified developer for AWS, Azure, and Terraform
 - ⚙️ I have an education in Mechanical Engineering
 - ♻️ I once recycled 5 miles of paper in a day
 
