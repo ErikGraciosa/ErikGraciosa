@@ -9,6 +9,9 @@
 - ⚙️ I have an education in Mechanical Engineering
 - ♻️ I once recycled 5 miles of paper in a day
 
+## My certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6004d179-89d7-4426-907d-f7d017b9c8ae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Connect with me on [Linked In](https://www.linkedin.com/in/erikgraciosa/)
 
 <!--
