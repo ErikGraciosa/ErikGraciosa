@@ -10,6 +10,7 @@
 - ♻️ I once recycled 5 miles of paper in a day
 
 ## My certifications
+<a href="https://www.credly.com/badges/2f9dbcb4-86a1-4ea8-a35b-c10b72f84fec"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="250" height="250" alt="AWS Associate Developer Badge"><a/>
 <a href="https://www.credly.com/badges/6004d179-89d7-4426-907d-f7d017b9c8ae/public_url"><img src="https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png" width="250" height="250" alt="Terraform Associate Badge"><a/>
 
 ## Connect with me on [Linked In](https://www.linkedin.com/in/erikgraciosa/)
