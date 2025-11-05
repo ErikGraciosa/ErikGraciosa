@@ -1,9 +1,7 @@
 # Hi there I'm Erik 👋
 
 ## Checkout my website www.erikgraciosa.com
-## I'm a software developer, a consultant, and a [pinball map](https://github.com/pinballmap/pbm-react) open source contributor.
 
-- ⛷ I'm currently working for Slalom Consulting
 - ⚕️I have deployed code to health care companies and government agencies
 - ☁️ I'm a cloud certified developer for AWS, Azure, and Terraform
 - ⚙️ I have an education in Mechanical Engineering
